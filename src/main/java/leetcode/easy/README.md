@@ -1,0 +1,28 @@
+## Easy
+
+---
+
+- [Best Time to Buy and Sell Stock 2](BestTimeToBuyAndSellStock2.java)
+- [Contains Duplicate](ContainsDuplicate.java)
+- [Remove Duplicates from Sorted Array](RemoveDuplicatesFromSortedArray.java)
+- [Intersections of Two Arrays_II](IntersectionsOfTwoArrays2.java)
+- [Single Number](SingleNumber.java)
+- [Rotate Array](RotateArray.java)
+- [Plus One](PlusOne.java)
+- [Move Zeroes](MoveZeroes.java)
+- [Two Sum](TwoSum.java)
+- [Shuffle an Array](../../../Leetcode/Easy/Design/Shuffle_an_Array.md)
+- [Climbing Stairs](ClimbingStairs.java)
+- [Best Time to Buy and Sell Stock](BestTimeToBuyAndSellStock1.java)
+- [Maximum SubArray](MaximumSubArray.java)
+- [House Robber](HouseRobber.java)
+- [Merge Sorted Array](../../../Leetcode/Easy/LinkedList/Merge_Sorted_Array.md)
+- [Reverse Linked List](../../../Leetcode/Easy/LinkedList/Reverse_Linked_List.md)
+- [First Bad Version](../../../Leetcode/Easy/Sorting&Searching/First_Bad_Version.md)
+- [Reverse String](ReverseString.java)
+- [Reverse Integer](ReverseInteger.java)
+- [First Unique Character](FirstUniqueCharacter.java)
+- [Valid Anagram](ValidAnagram.java)
+- [String to Integer atoi](StringtoInteger.java)
+- [Implement strStr](../../../Leetcode/Easy/String/Implement_strStr.md)
+- [Count and Say](../../../Leetcode/Easy/String/Count_and_Say.md)
